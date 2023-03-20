@@ -1,0 +1,8 @@
+The annotations in the [COCO 2017 dataset][1] belong to the [COCO Consortium][2]
+and is licensed under a [Creative Commons Attribution 4.0 License][3].
+
+Predictions are a modified version of the COCO 2017 dataset.
+
+[1]: http://images.cocodataset.org/annotations/annotations_trainval2017.zip
+[2]: https://cocodataset.org/
+[3]: https://creativecommons.org/licenses/by/4.0/legalcode
